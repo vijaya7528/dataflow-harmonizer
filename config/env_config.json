@@ -1,0 +1,12 @@
+{
+  "raw_bucket": "dataflow-raw-dev",
+  "bronze_bucket": "dataflow-bronze-dev",
+  "silver_bucket": "dataflow-silver-dev",
+  "gold_bucket": "dataflow-gold-dev",
+
+  "glue_database": "sales_db",
+
+  "crawler_role": "AWSGlueServiceRole",
+
+  "audit_table": "pipeline_audit"
+}
